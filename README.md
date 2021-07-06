@@ -1,5 +1,5 @@
 # Sass project
 
 ```
-Unit 4 - Web Style Guide :shipit:
+Unit 4 - Web Style Guide 
 ```
