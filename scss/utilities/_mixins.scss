@@ -1,0 +1,10 @@
+@mixin center-positioning(){
+    display: block;
+    margin-left: $auto-prop;
+    margin-right: $auto-prop;
+}
+
+@mixin font-styling($color: null, $weight: null){
+    color: $color;
+    font-weight: $weight;
+}
